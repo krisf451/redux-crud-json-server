@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "firstName": "Rab",
+      "lastName": "Fulkerson",
+      "address": "Riverside, CA",
+      "contact": "9513370689",
+      "email": "beckalove89@gmail.com",
+      "password": "ryder2020",
+      "id": 3
+    },
+    {
+      "firstName": "Kristian",
+      "lastName": "Fulkerson",
+      "email": "thisistheguy451@gmail.com",
+      "address": "Riverside, CA",
+      "contact": "9512273742",
+      "id": 5
+    },
+    {
+      "firstName": "Matt",
+      "lastName": "W",
+      "email": "Myemail69.gmail.com",
+      "address": "Cali Baby",
+      "contact": "9512882938",
+      "id": 6
+    },
+    {
+      "firstName": "Bobs",
+      "lastName": "Jones",
+      "email": "newemailtest@gmail.com",
+      "address": "Corona, California",
+      "contact": "9512882828",
+      "id": 7
+    }
+  ]
+}
